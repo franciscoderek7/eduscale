@@ -1,0 +1,15 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "EduScale",
+  "description": "EduScale \u2014 Scalable online education and corporate training platform. AI-powered learning paths, assessments, and certification management.",
+  "url": "https://franciscoderek7.github.io/eduscale",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Web",
+  "offers": {
+    "@type": "AggregateOffer",
+    "priceCurrency": "USD",
+    "lowPrice": "99",
+    "highPrice": "2499"
+  }
+}
